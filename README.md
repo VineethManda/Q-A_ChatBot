@@ -2,12 +2,14 @@
 
 Here are the instructions to download the project.
 
-Download the project.
-Go to the project path.
-Install all requirements
-pip install -r requirements.txt
-Run the server:
-python app.py
+Download the project.<br>
+Go to the project path.<br>
+Install all requirements<br>
+pip install -r requirements.txt<br>
+
+
+Run the server:<br>
+python app.py<br>
 
 
 Engineered a chatbot for University FAQ utilizing web scraping and cosine similarity for accurate question-answer matching.
