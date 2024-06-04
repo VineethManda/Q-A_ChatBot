@@ -1,0 +1,147 @@
+question,response
+0,"Hi, how are you?         ",I am good. Thanks for asking
+1,What's the weather like,Not Sure
+2,Tell me a joke.          ,Why don't scientists trust atoms?Because they make up everything!
+3,How do I register for classes?,"To register for classes, log in to your student portal and navigate to the registration section. Follow the instructions to add your desired courses to your schedule."
+4,What is the registration deadline?,The registration deadline for the upcoming semester is [date]. Make sure to complete your registration before that date to secure your spot in classes. 
+5,Can I register for more than 18 credits?,"The maximum credit limit for registration is 18 credits per semester. If you need to exceed this limit, please contact the registrar's office for assistance."
+6,How do I drop a class?,"To drop a class, log in to your student portal, go to the registration section, and find the option to drop courses. Follow the prompts to complete the process."
+7,What courses are available for [major]?,"You can view the list of available courses for [major] in the course catalog on our university website. Additionally, you can use the online course search tool in your student portal"
+8,I'm having trouble with registration.,"I'm sorry to hear that. Please provide more details about the issue you're facing, and I'll do my best to assist you."
+9,When is the add/drop period?,"The add/drop period for the current semester is [date]. During this time, you can make adjustments to your class schedule without any penalties."
+10,How can I check my class schedule?,"You can view your class schedule by logging in to your student portal and navigating to the schedule or registration section. There, you'll find details about your enrolled courses. "
+11,Are there any prerequisites for [course]?,"Yes, [course] has prerequisites. Check the course description or the university catalog for information on the required prerequisites."
+12,Tell me about [instructor] for [course].,"[Instructor] teaches [course]. You can find more information about the instructor, such as office hours and contact details, on the university website or the course syllabus."
+13,What documents do I need before classes start?,"Before classes start, you'll need to submit: 1. Admission acceptance letter
+2. Transcripts from previous institutions
+3. Proof of identification (ID or passport)
+4. Completed registration forms"
+14,Can you tell me about the required paperwork?,"Certainly! Before classes begin, ensure you have: 1. Proof of enrollment
+2. Health insurance information
+3. Any specific departmental requirements"
+15,Where can I find information about documents?,You can find detailed information about required documents on the university's official website or contact the admissions office for assistance.
+16,Are there any medical documents needed?,"Yes, medical documents such as immunization records may be required. Check with the university health services for specifics."
+17,What's the deadline for document submission?,The deadline for document submission varies. Please check the university's academic calendar or contact the admissions office for details.
+18,Do I need to submit a financial aid form?,"If you're applying for financial aid, you may need to submit additional forms. Check with the financial aid office for specific requirements."
+19,How do I upload my documents online?,You can upload documents through the university's online portal. Refer to the admission instructions or contact technical support for assistance.
+20,Who should I contact if I have issues with my Passport?,"| For Passport-related concerns, please reach out to the UNT International Office.                       |"
+21,How can I get assistance with my Visa application?,"| If  you need help with your Visa application, contact the UNT International Admissions Office.           |"
+22,I'm facing issues with my I-20. Whom should I reach out to? ," | For problems related to your I-20, contact the UNT International Student and Scholar Services (ISSS).   |"
+23,What is the contact information for the International Office? ,| You can find the contact details for the UNT International Office on their official website.            |
+24,Can you provide guidance on the Visa interview process?,| The UNT International Admissions Office can guide you through the Visa interview process.               |
+25,My Passport is about to expire. What should I do? ,"| Renew your Passport as soon as possible. For additional guidance, contact the UNT International Office. |"
+26,How long does it take to process a Visa application? , The processing time for Visa applications varies. Contact the UNT International Admissions Office for detail
+27,| How can I apply for a Teaching Assistant position?                    ,"| To apply for a TA position, you can check the university job portal or contact the department you're interested in. |"
+28,| Where can I find information about on-campus jobs?              ,| You can explore on-campus job opportunities on the university's career services website or job portal. |
+29,| What are the requirements for becoming an IA?                        ,| IA positions may have specific requirements set by each department. Please check with the relevant department or visit their website. |
+30,| Can you help me apply for a job at the dining services?          ," Sure, you can apply for dining services jobs through the university's dining services website or by contacting their office. |"
+31,| Is there a specific application deadline for TA jobs?                   ,| Deadlines for TA positions vary by department. It's best to check with the specific department you're interested in for accurate information. |
+32,| What types of on-campus jobs are available for students?,"   Students can find a variety of on-campus jobs, including TA, IA, dining services, library assistants, and more. Explore the university job portal for a comprehensive list. |"
+33,| How does the application process work for on-campus jobs?    ,"    | The application process typically involves submitting an online application, possibly attending an interview, and waiting for a response from the hiring department. Check the specific job posting for details. |"
+34,| Are there part-time job opportunities for students?                    ,"   | Yes, many on-campus positions are part-time and designed to accommodate students' schedules. You can find part-time job listings on the university's job portal. |"
+35,| Can international students apply for on-campus jobs?                ,"  | Yes, international students are often eligible to apply for on-campus jobs. However, there may be certain regulations to follow. Check with the university's international student services for guidance. |"
+36,| Where can I get more information about job opportunities? ,"       For detailed information about on-campus job opportunities, visit the university's career services website or contact the career services office.                                                                                                                              | "
+37,| What is the fee structure for Computer Science? | ,The tuition fee for Computer Science majors at UNT is $X per credit hour. Additional fees include ... |
+38,| Can you provide details about Biology fees?    ,"| For Biology majors, the tuition fee is $Y per credit hour. Please note that there might be additional ... |"
+39,| How much does it cost for a Psychology major?   ,| Psychology majors have a tuition fee of $Z per credit hour. You should also consider fees such as ...  |
+40,| What is the fee for Engineering students?       ,"| Engineering majors have a tuition fee of $W per credit hour. In addition, there are lab fees and other ...|"
+41,| Tell me about the fee structure for Business majors., | Business majors at UNT are required to pay a tuition fee of $V per credit hour. You may also need to ... |
+42,| What is the tuition fee for [Major]?           ,| The tuition fee for [Major] is [Amount]. This covers the cost of instruction and some university services.    |
+43,| Are there additional fees for [Major]?         ,"| Yes, there may be additional fees for materials, labs, or other specific requirements related to [Major].     |"
+44,| What financial aid options are available?     ,"| UNT provides various financial aid options, including scholarships, grants, and loans.                        |"
+45,| How can I apply for scholarships?              ,| You can apply for scholarships through the UNT scholarship portal or by checking specific departmental awards. |
+46,| Are there payment plans available?             ,"| Yes, UNT offers payment plans to help manage tuition expenses.                                                |"
+47,| Can I work on campus to help cover expenses?,"| Yes, UNT provides on-campus job opportunities for students.                                                     |"
+48,| What services are covered in the tuition fee?  ,"| The tuition fee covers academic services, use of facilities, and access to some campus events and resources.    |"
+49,| How do I pay my tuition fees?                  ,| Tuition fees can be paid online through the UNT student portal using various payment methods.                  |
+50,| Are there discounts for in-state students?    |," Yes, in-state students typically receive lower tuition rates compared to out-of-state students.                |"
+51,| Is there a fee waiver for low-income students? ,| UNT offers fee waivers and financial assistance programs for eligible low-income students.                                                  |
+52,| What is the academic calendar for this year?     ,| The academic calendar for this year can be found on the official university website.            |
+53,| When does the fall semester start?               ,| The fall semester typically starts in [Month]. Check the academic calendar for specific dates.   |
+54,| Are there any holidays during the spring break?  |," Yes, there are usually holidays during the spring break. Refer to the academic calendar for details.|"
+55,| What are the important dates for the fall term?   |, Important dates for the fall term are available in the academic calendar.                         |
+56,| When is the last day of classes in the spring?   | ,The last day of classes in the spring semester is on [Date]. Refer to the academic calendar.      |
+57,| Is the university closed during spring break?    |, The university might be closed for some days during spring break. Check the calendar for details. |
+58,| When is the spring commencement ceremony?        ,  | The spring commencement ceremony is scheduled for [Date]. Please refer to the official schedule.  |
+59,| What are the fall holidays this year?            | ,"Fall holidays this year include [Holiday1], [Holiday2], and [Holiday3]. Refer to the calendar.   |"
+60,| How long is the winter break?                    | ,The winter break usually spans from [Start Date] to [End Date]. Check the academic calendar.                           |
+61,What is Optional Practical Training (OPT)?,OPT is a program that allows F-1 students to work in the U.S.
+62,How can I apply for OPT?,"To apply for OPT, follow these steps:1. Attend a mandatory OPT workshop. 2. Prepare required documents. 3. Submit OPT request to the ISSO. 4. Receive OPT I-20 from ISSO. 5. Mail USCIS application with required fee. 6. Wait for the EAD card."
+63,When should I apply for OPT?,Apply for OPT 90 days before your program ends.
+64,How long does the OPT processing take?,"Processing time varies, but it's typically 90 days."
+65,Can I renew my OPT?,"Yes, you can apply for a 24-month STEM OPT extension. Ensure your employer is enrolled in E-Verify. File STEM OPT extension before your current OPT expires."
+66,What documents do I need for OPT renewal?,"For STEM OPT extension, you need: 1. Form I-765. 2. Form I-983 (Training Plan). 3. STEM degree and transcript. 4. Employer's E-Verify number."
+67,What is the OPT unemployment rule?,You have 90 days of unemployment during the 12-month OPT.
+68,How can I report employment while on OPT?,Report employment updates through the SEVP Portal.
+69,What if my OPT application is denied?,"If denied, consult with the ISSO for guidance."
+70,"| ""Where are the Computer Science classes held?""             ","| ""Computer Science classes are primarily held in the Discovery Park campus, Building X."" |"
+71,"| ""Which building are the Information Science classes in?""           ","| ""Information Science classes are mainly held in the Business Leadership Building.""    |"
+72,"| ""Tell me the location for Computer and Information Science labs?""  ","| ""Labs for Computer and Information Science are usually located in the Engineering Building."" |"
+73,"| ""Are there any classes for CS students in the Main Campus?""        ","| ""Yes, some Computer Science classes may be scheduled in the Main Campus, particularly in Building Y."" |"
+74,"| ""Can you provide a campus map for Computer Science classes?""      ","| ""Sure, you can find the campus map on the university website, or you may visit the student services for a physical copy."" |"
+75,"| ""Any specific room number for CS lectures?""                       ","| ""The room numbers for Computer Science lectures may vary. You can check your class schedule on the university portal for specific information."" |"
+76,"| ""Tell me more about the facilities in the Computer Science building."" ","| ""The Computer Science building is equipped with modern classrooms, labs, and collaborative spaces for students. You can explore further details on the university website."" |"
+77,"| ""How can I contact the Computer Science department?""               ","| ""You can contact the Computer Science department at [Contact Email/Phone]. For more details, visit the department's page on the university website."" |"
+78,"| ""Are there any evening classes for Information Science?""           ","| ""Yes, some Information Science classes may have evening sessions. Check your class schedule for specific timings."" |"
+79,"| ""What is the address for the Discovery Park campus?""               ","| ""The address for Discovery Park is [Address]. You can find detailed directions on the university website or use a navigation app for assistance.""                                                            |"
+80,"| ""Is there any student transport to reach Block A?""","| ""Yes, there is a shuttle service that runs to Block A regularly. You can find the shuttle schedule on the UNT transportation website."" |"
+81,"| ""How can I get to Block B from the main campus?""   "," ""To reach Block B from the main campus, you can take the Blue Line shuttle. The shuttle stop is located near [specific location on the main campus]. Check the schedule for departure times."" |"
+82,"| ""Are there any shuttles to Block C in the evening?"" "," ""Yes, there are evening shuttles to Block C. The evening shuttle service operates until [specific time]. You can view the detailed schedule on the UNT transportation page."" |"
+83,"| ""What transportation options are available to Block D?"" "," ""There are several transportation options to Block D, including the Mean Green Shuttle and local buses. Check the transportation website for the most up-to-date information on routes and schedules."" |"
+84,"| ""How frequent are the shuttles to Block E?""        "," ""The shuttles to Block E run every [frequency], with increased frequency during peak hours. Refer to the transportation schedule for specific timings."" |"
+85,"| ""Can I track the location of the shuttles in real-time?"" "," ""Yes, you can use the UNT Transportation app to track the real-time location of shuttles. The app provides live updates on shuttle locations, making it convenient for students."" |"
+86,"| ""Is there a shuttle service on weekends to Block F?"" "," ""Yes, there is a weekend shuttle service to Block F. You can find the weekend schedule on the UNT transportation website or inquire at the transportation office for more details.""                                                    |"
+87,| What gym equipment is available?          ," | The gym is equipped with various machines including treadmills, weights, and more.      |"
+88,| Can I find yoga classes on campus?         ,"| Yes, there are yoga classes available. Check the schedule for specific timings.          |"
+89,| When is the gym open?                     , | The gym is open from [Opening Time] to [Closing Time] on weekdays. Weekends may vary.  
+90,| How can I sign up for a yoga class?        ,| You can sign up for yoga classes at the front desk of the fitness center.               |
+91,| Are there personal trainers available?    ,"| Yes, we have personal trainers. You can inquire about their availability at the gym.    |"
+92,| Is there a fee for using the gym?          ,"| As a UNT student, your membership is included. Check with the front desk for details.           "
+93,| What types of yoga are offered?                    ," | We offer various yoga styles, including Hatha, Vinyasa, and more. Check the schedule.   |"
+94,| Can I bring a friend to the gym?                     ," | Guests are allowed with a valid ID. There might be some restrictions, so check first.   |"
+95,| How often should I exercise per week?         , | The recommended frequency is at least 3-4 times a week for overall health.               |
+96,| Are there any fitness challenges?                   ," | Yes, we host fitness challenges throughout the year. Stay tuned for announcements.                           |"
+97,"""What types of libraries are available on campus?""","""UNT provides several libraries, including Willis Library, Media Library, Eagle Commons Library, and Discovery Park Library. Each library has its own unique collections."""
+98,"""Tell me about Willis Library.""","""Willis Library is the main library on UNT campus. It houses a diverse collection of books, journals, and multimedia resources. It also provides study spaces and computer labs."""
+99,"""What facilities does the Media Library offer?""","""The Media Library focuses on multimedia resources such as DVDs, CDs, and streaming services. It also offers equipment rentals, editing suites, and multimedia production support."""
+100,"""Can I reserve a study room in the libraries?""","Yes, you can reserve study rooms in various UNT libraries. Check the library website or use the online reservation system for availability and booking."""
+101,"""Tell me about Eagle Commons Library.""","""Eagle Commons Library is located on the first floor of Willis Library. It houses the Learning Center and provides resources for first-year students, including tutoring services."""
+102,"""What services are available at Discovery Park Library?""","""Discovery Park Library serves the UNT Discovery Park campus. It provides resources related to engineering, computer science, and technology. Study spaces and research assistance are available."""
+103,"""Are there any 24/7 libraries on campus?""","""Yes, Willis Library offers 24/7 access during certain times of the semester. Check the library website for current hours and any changes to the schedule.                                                                                   """
+104,Where can I find student services on campus?,Student services are located in the Student Union building.
+105,What services are offered by the Student Union?,"The Student Union provides services such as advising, career counseling, and student organizations."
+106,How do I contact the Student Services office?,You can contact the Student Services office at [Phone Number] or visit their website [Website URL].
+107,Where is the Financial Services department?,The Financial Services department is located in the Administration Building.
+108,What financial aid options are available?,"Financial aid options include scholarships, grants, and loans. Visit the Financial Services office for more information."
+109,Can I apply for scholarships online?,"Yes, you can apply for scholarships through the UNT scholarship portal on the university website."
+110,When is the deadline for financial aid applications?,The deadline for financial aid applications is [Deadline Date]. Be sure to submit your application before this date.
+111,How can I check my student account balance?,You can check your student account balance through the myUNT portal or by contacting the Financial Services office.
+112,Are there any emergency financial assistance programs?,"Yes, UNT offers emergency financial assistance programs. Contact Financial Services for details."
+113,What documents do I need for financial aid renewal?,"For financial aid renewal, you typically need to submit updated income information and any requested documents. Check with Financial Services for specific requirements."
+114,What are the options for student hostels at UNT?,UNT offers on-campus student housing options. There are residence halls and apartment-style options available.
+115,How much is the fee for student hostels?,The hostel fees vary based on the type of accommodation. You can find detailed information on the UNT housing website or contact the housing office directly.
+116,Can I get a breakdown of the hostel fees?,"The hostel fees typically include rent, utilities, and various amenities. For a detailed breakdown, you should check the UNT housing website or contact the housing office for the specific information related to your chosen accommodation."
+117,Are there any meal plans available for students staying in hostels?,"Yes, UNT offers meal plans for students staying in the hostels. These meal plans provide access to campus dining facilities. You can explore different meal plan options on the university's dining services website."
+118,How much do the meal plans cost?,Meal plan costs vary based on the type and coverage level. Detailed information on meal plan options and their costs can be found on the UNT dining services website or by contacting the dining services office.
+119,Can I customize my meal plan?,"Yes, UNT often allows students to customize their meal plans based on individual preferences and dietary needs. You can find more information on customization options on the dining services website."
+120,When do I need to apply for student housing?,"It's advisable to check the UNT housing website for specific application deadlines. Deadlines may vary, so it's essential to plan ahead and submit your housing application on time."
+121,How can I contact the housing office for more information?,"You can contact the UNT housing office at [housing office contact details]. They will be able to provide you with specific information about housing options, fees, and any other related queries."
+122,What are the options for student hostels at UNT?,UNT offers on-campus student housing options. There are residence halls and apartment-style options available.
+123,How much is the fee for student hostels?,The hostel fees vary based on the type of accommodation. You can find detailed information on the UNT housing website or contact the housing office directly.
+124,Can I get a breakdown of the hostel fees?,"The hostel fees typically include rent, utilities, and various amenities. For a detailed breakdown, you should check the UNT housing website or contact the housing office for the specific information related to your chosen accommodation."
+125,Are there any meal plans available for students staying in hostels?,"Yes, UNT offers meal plans for students staying in the hostels. These meal plans provide access to campus dining facilities. You can explore different meal plan options on the university's dining services website."
+126,How much do the meal plans cost?,Meal plan costs vary based on the type and coverage level. Detailed information on meal plan options and their costs can be found on the UNT dining services website or by contacting the dining services office.
+127,Can I customize my meal plan?,"Yes, UNT often allows students to customize their meal plans based on individual preferences and dietary needs. You can find more information on customization options on the dining services website."
+128,When do I need to apply for student housing?,"It's advisable to check the UNT housing website for specific application deadlines. Deadlines may vary, so it's essential to plan ahead and submit your housing application on time."
+129,How can I contact the housing office for more information?,"You can contact the UNT housing office at [housing office contact details]. They will be able to provide you with specific information about housing options, fees, and any other related queries."
+130,| Hi there! I need to report a crime on campus.           ,"| I'm sorry to hear that. Please provide some details about the incident, such as location and time.     |"
+131,| There was an incident near the library at 10 PM.        ,| Thank you for the information. I'll make a note of it. Do you want to remain anonymous in the report? |
+132,"| Yes, I prefer to remain anonymous.                      ","| Understood. Your report has been submitted anonymously. If you have more details, feel free to share.  "
+133,| How can I check the status of my crime report?          ,| You can check the status by contacting campus police at [contact details].                              |
+134,| What emergency services are available on campus?        ,"| In case of emergencies, dial 911. For non-emergencies, contact campus police at [contact details].     |"
+135,| I want to know about safety tips on campus.             ,"| Sure, here are some general safety tips: [provide safety tips].                                          |"
+136,| How can I receive crime alerts and updates?            ,| You can sign up for campus-wide alerts via the university's official communication channels.          |
+137,| What areas on campus have high-security measures?     ,  | High-security areas include [list of areas]. Be aware and follow safety guidelines in these places.   |
+138,| I witnessed a crime but didn't report it immediately.  ,"| It's important to report crimes promptly. You can still provide details, and we'll pass it to the police.| "
+139,| Can I speak to a police officer in person?            ," | Yes, you can visit the campus police station at [location]. They are available [operating hours].      |"
+140,| Thank you for your help.                               ,"| You're welcome. If you have more questions or need assistance, feel free to ask. Stay safe!                      |"
